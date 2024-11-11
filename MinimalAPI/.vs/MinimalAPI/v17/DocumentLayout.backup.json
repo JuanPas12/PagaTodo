@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\PagaTodo\\MinimalAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE9C46-68DF-4EB0-8A7C-01E4BE606D28}|MinimalAPI\\MinimalAPI.csproj|c:\\repos\\pagatodo\\minimalapi\\minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE9C46-68DF-4EB0-8A7C-01E4BE606D28}|MinimalAPI\\MinimalAPI.csproj|solutionrelative:minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE9C46-68DF-4EB0-8A7C-01E4BE606D28}|MinimalAPI\\MinimalAPI.csproj|c:\\repos\\pagatodo\\minimalapi\\minimalapi\\services\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE9C46-68DF-4EB0-8A7C-01E4BE606D28}|MinimalAPI\\MinimalAPI.csproj|solutionrelative:minimalapi\\services\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEE9C46-68DF-4EB0-8A7C-01E4BE606D28}|MinimalAPI\\MinimalAPI.csproj|c:\\repos\\pagatodo\\minimalapi\\minimalapi\\services\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEE9C46-68DF-4EB0-8A7C-01E4BE606D28}|MinimalAPI\\MinimalAPI.csproj|solutionrelative:minimalapi\\services\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorService.cs",
+              "DocumentMoniker": "C:\\repos\\PagaTodo\\MinimalAPI\\MinimalAPI\\Services\\CalculatorService.cs",
+              "RelativeDocumentMoniker": "MinimalAPI\\Services\\CalculatorService.cs",
+              "ToolTip": "C:\\repos\\PagaTodo\\MinimalAPI\\MinimalAPI\\Services\\CalculatorService.cs",
+              "RelativeToolTip": "MinimalAPI\\Services\\CalculatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:46:00.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICalculatorService.cs",
+              "DocumentMoniker": "C:\\repos\\PagaTodo\\MinimalAPI\\MinimalAPI\\Services\\ICalculatorService.cs",
+              "RelativeDocumentMoniker": "MinimalAPI\\Services\\ICalculatorService.cs",
+              "ToolTip": "C:\\repos\\PagaTodo\\MinimalAPI\\MinimalAPI\\Services\\ICalculatorService.cs",
+              "RelativeToolTip": "MinimalAPI\\Services\\ICalculatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:37:37.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\repos\\PagaTodo\\MinimalAPI\\MinimalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MinimalAPI\\Program.cs",
+              "ToolTip": "C:\\repos\\PagaTodo\\MinimalAPI\\MinimalAPI\\Program.cs*",
+              "RelativeToolTip": "MinimalAPI\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:32:05.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

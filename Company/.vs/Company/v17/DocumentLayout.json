@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\PagaTodo\\Company\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCF9668-3202-4EBB-83A2-415E7E08DBB8}|Company\\Company.csproj|c:\\repos\\pagatodo\\company\\company\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DDCF9668-3202-4EBB-83A2-415E7E08DBB8}|Company\\Company.csproj|solutionrelative:company\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCF9668-3202-4EBB-83A2-415E7E08DBB8}|Company\\Company.csproj|c:\\repos\\pagatodo\\company\\company\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCF9668-3202-4EBB-83A2-415E7E08DBB8}|Company\\Company.csproj|solutionrelative:company\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCF9668-3202-4EBB-83A2-415E7E08DBB8}|Company\\Company.csproj|c:\\repos\\pagatodo\\company\\company\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCF9668-3202-4EBB-83A2-415E7E08DBB8}|Company\\Company.csproj|solutionrelative:company\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCF9668-3202-4EBB-83A2-415E7E08DBB8}|Company\\Company.csproj|c:\\repos\\pagatodo\\company\\company\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCF9668-3202-4EBB-83A2-415E7E08DBB8}|Company\\Company.csproj|solutionrelative:company\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCF9668-3202-4EBB-83A2-415E7E08DBB8}|Company\\Company.csproj|c:\\repos\\pagatodo\\company\\company\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCF9668-3202-4EBB-83A2-415E7E08DBB8}|Company\\Company.csproj|solutionrelative:company\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCF9668-3202-4EBB-83A2-415E7E08DBB8}|Company\\Company.csproj|c:\\repos\\pagatodo\\company\\company\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCF9668-3202-4EBB-83A2-415E7E08DBB8}|Company\\Company.csproj|solutionrelative:company\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCF9668-3202-4EBB-83A2-415E7E08DBB8}|Company\\Company.csproj|c:\\repos\\pagatodo\\company\\company\\data\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCF9668-3202-4EBB-83A2-415E7E08DBB8}|Company\\Company.csproj|solutionrelative:company\\data\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\repos\\PagaTodo\\Company\\Company\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Company\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\repos\\PagaTodo\\Company\\Company\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Company\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T23:53:59.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\repos\\PagaTodo\\Company\\Company\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Company\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\repos\\PagaTodo\\Company\\Company\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Company\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T23:41:46.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\repos\\PagaTodo\\Company\\Company\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Company\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\repos\\PagaTodo\\Company\\Company\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Company\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T23:40:00.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\repos\\PagaTodo\\Company\\Company\\appsettings.json",
+              "RelativeDocumentMoniker": "Company\\appsettings.json",
+              "ToolTip": "C:\\repos\\PagaTodo\\Company\\Company\\appsettings.json",
+              "RelativeToolTip": "Company\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-10T23:01:04.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\repos\\PagaTodo\\Company\\Company\\Program.cs",
+              "RelativeDocumentMoniker": "Company\\Program.cs",
+              "ToolTip": "C:\\repos\\PagaTodo\\Company\\Company\\Program.cs",
+              "RelativeToolTip": "Company\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:58:43.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\repos\\PagaTodo\\Company\\Company\\Data\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Company\\Data\\Models\\Employee.cs",
+              "ToolTip": "C:\\repos\\PagaTodo\\Company\\Company\\Data\\Models\\Employee.cs",
+              "RelativeToolTip": "Company\\Data\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:57:46.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\repos\\PagaTodo\\Company\\Company\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "Company\\Data\\Context.cs",
+              "ToolTip": "C:\\repos\\PagaTodo\\Company\\Company\\Data\\Context.cs",
+              "RelativeToolTip": "Company\\Data\\Context.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:55:08.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
