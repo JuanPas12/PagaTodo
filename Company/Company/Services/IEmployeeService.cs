@@ -1,8 +1,8 @@
 ﻿using Company.Data.Models;
 
-namespace Company.Repositories
+namespace Company.Services
 {
-    public interface IEmployeeRepository
+    public interface IEmployeeService
     {
         Task<IEnumerable<Employee>> GetEmployees();
         Task<Employee> GetEmployeeById(int id);
