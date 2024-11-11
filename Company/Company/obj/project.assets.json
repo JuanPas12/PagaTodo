@@ -4482,11 +4482,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\PagaTodo\\Company\\Company\\Company.csproj",
+      "projectUniqueName": "C:\\repos\\PagaTodo\\PagaTodo\\Company\\Company\\Company.csproj",
       "projectName": "Company",
-      "projectPath": "C:\\repos\\PagaTodo\\Company\\Company\\Company.csproj",
+      "projectPath": "C:\\repos\\PagaTodo\\PagaTodo\\Company\\Company\\Company.csproj",
       "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\PagaTodo\\Company\\Company\\obj\\",
+      "outputPath": "C:\\repos\\PagaTodo\\PagaTodo\\Company\\Company\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
