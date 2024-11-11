@@ -1,5 +1,5 @@
 
-# Prueba Técnica - API con .NET y SQL Server
+# Prueba Técnica
 
 Este repositorio contiene dos ejercicios en **ASP.NET Core** que utilizan Minimal APIs y Entity Framework Core.
 
